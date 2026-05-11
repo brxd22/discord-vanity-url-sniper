@@ -1,2 +1,2 @@
 # discord-vanity-url-sniper
-@howeverfaraway discord ekle 
+eski kodlarımdan biridir slowlatıp attım hayrını gör kardesim
